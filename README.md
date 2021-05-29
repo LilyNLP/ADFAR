@@ -11,4 +11,4 @@ Accepted to Findings of ACL 2021.
 
 ## Usage
 
-You can run the run_MR_pipeline.py to see how the pipeline works and gets the defense performance on MR dataset.
+You can run the run_MR_pipeline.py to see how the pipeline works and gets the defense performance on MR dataset as an example.
